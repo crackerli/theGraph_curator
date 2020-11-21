@@ -4,21 +4,16 @@ The Graph是一个去中心化的协议，它能够对其他区块链项目的�
 
 **如何了解The Graph**
 
-官网： https://thegraph.com/
-
-文档： https://thegraph.com/docs
+官网： https://thegraph.com/  
+文档： https://thegraph.com/docs  
 
 **其他有用链接**
 
-项目地址(Github): https://github.com/graphprotocol
-
-推特: https://twitter.com/graphprotocol
-
-Discord: https://discord.gg/vtvv7FP
-
-电报群: http://t.me/graphprotocol
-
-Reddit: https://reddit.com/r/thegraph
+项目地址(Github): https://github.com/graphprotocol  
+推特: https://twitter.com/graphprotocol  
+Discord: https://discord.gg/vtvv7FP  
+电报群: http://t.me/graphprotocol  
+Reddit: https://reddit.com/r/thegraph  
 
 **如何联系项目方：**
 
@@ -51,15 +46,16 @@ Reddit: https://reddit.com/r/thegraph
 **GRT销售的价格是多少？**
 
 *可以参见以下GRT售卖的详细信息：*
-通证名称：GRT(ERC20 Token)
-日期：太平洋夏季时间2020年10月22日，星期四，上午9点
-售卖地点：sale.thegraph.com, 以太坊区块链
-售卖注册关闭时间：太平洋夏季时间2020年10月15日中午12点
-初始流通供应量：大约1,245,666,867 GRT
-总供应量：10,000,000,000 GRT
-售卖总量：400,000,000 preGRT(奖励转换为400,000,000 GRT)
-通证价格：0.03美元/preGRT
-接受货币：ETH
-个人购买硬顶：每一位合格注册者1000美元~5000美元
-锁定时间：主网上线解锁
+
+通证名称：GRT(ERC20 Token)  
+日期：太平洋夏季时间2020年10月22日，星期四，上午9点  
+售卖地点：sale.thegraph.com, 以太坊区块链  
+售卖注册关闭时间：太平洋夏季时间2020年10月15日中午12点  
+初始流通供应量：大约1,245,666,867 GRT  
+总供应量：10,000,000,000 GRT  
+售卖总量：400,000,000 preGRT(奖励转换为400,000,000 GRT)  
+通证价格：0.03美元/preGRT  
+接受货币：ETH  
+个人购买硬顶：每一位合格注册者1000美元~5000美元  
+锁定时间：主网上线解锁  
 注册资格：非美国公民；或者某些明文禁止的也会排除在外

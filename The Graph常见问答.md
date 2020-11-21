@@ -1,21 +1,26 @@
-**The Graph是什么？
+**The Graph是什么？**
 
 The Graph是一个去中心化的协议，它能够对其他区块链项目的数据重新索引，以方便Dapp访问这些数据。现在仅支持以太坊，IPFS，未来会支持更多的区块链项目。The Graph让以前难以访问的数据变得简单直接，Dapp开发者不再需要关心如何取得自己需要的数据，可以非常轻松的从The Graph的数据库中获取。
 
-**如何了解The Graph
+**如何了解The Graph**
 
 官网： https://thegraph.com/
+
 文档： https://thegraph.com/docs
 
-**其他有用链接
+**其他有用链接**
 
 项目地址(Github): https://github.com/graphprotocol
+
 推特: https://twitter.com/graphprotocol
+
 Discord: https://discord.gg/vtvv7FP
+
 电报群: http://t.me/graphprotocol
+
 Reddit: https://reddit.com/r/thegraph
 
-**如何联系项目方：
+**如何联系项目方：**
 
 在Discord服务器, 电报群组中均可联系到，或者发邮件到info@thegraph.com
 

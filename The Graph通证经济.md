@@ -12,31 +12,35 @@ The Graph是一种将区块链数据重新组织，使其变得更加易于访�
 
 The Graph将现有的数字经济转移到了一个新环境中，在这里有更好的激励，更安全的数据源，策展过的API，还有更加浅白的访问方式。 The Graph网络将在今年年底启动。  
 
-<table><tr><td bgcolor=black>![image](https://github.com/crackerli/theGraph_curator/blob/main/images/Token-Economics-Characters@2x.png)</td></tr></table>
+![image](https://github.com/crackerli/theGraph_curator/blob/main/images/Token-Economics-Characters@2x.png)
 
 **The Graph网络角色**  
 
 有许多的方式可以为The Graph网络和开放数字经济做贡献，无论是懂技术的还是不懂技术的个人都可以参加。
 
 ![image](https://github.com/crackerli/theGraph_curator/blob/main/images/Character_Indexer2.png)
+
 **Indexer(可赚取 GRT)**  
 Indexer是网络中的节点运行者，他们质押Graph的通证(GRT)来提供数据索引与数据请求处理服务。Indexer可以赚取数据请求费用和Indexer奖励。
 
 需要的技术等级：**高级**  
 
 ![image](https://github.com/crackerli/theGraph_curator/blob/main/images/Charaacter_Curator2.png)
+
 **Curator(可赚取GRT)**  
 Curator可以是Subgraph的开发者，数据消费者，或者审核推广人员(他们告知Indexer哪种API应该被The Graph的网络索引)。Curator将GRT储存到一个联合曲线中，以此在网络中通告特定的Subgraph，同时他能获取这个Subgraph一定比例的请求费用；这就为最高品质的数据源提供了激励。Curator对于Subgraph的审核，推广，以及存储GRT都可以通过Graph浏览器Dapp完成。因为这些都发生在联合曲线中，意味着你越早介入某个Subgraph(存储GRT给它，并向网络推广这个Subgraph)，在Subgraph存储总量一定的情况下，你瓜分费用的比例就越高。当然，如果你取出你储蓄的GRT，你的GRT将保持不变。
 
 需要的技术等级：**中等**  
 
 ![image](https://github.com/crackerli/theGraph_curator/blob/main/images/Character_Delegator2.png)
+
 **Delegators(可赚取GRT)**  
 Delegator是那些愿意为网络贡献安全性，但是又不想自己运行Graph节点的个人。Delegator为网络做贡献的方式是将自己的GRT质押到已存在的Indexer节点，同时他们也能赚取一定比例的请求费用和索引奖励。Delegator根据Indexer的表现进行选择，衡量表现的标尺包括：请求费用比率，以往被罚的记录，连续运行时间；还有代理的参数，比如如何收取代理的费用，以及奖励的情况。 Delegator能够通过Graph的浏览器dApp来代理质押或者撤销质押GRT。
 
 需要的技术等级：**低**  
 
 ![image](https://github.com/crackerli/theGraph_curator/blob/main/images/Character_Consumer2.png)
+
 **Consumer(数据消费者，需要支付GRT)**  
 数据消费者是The Graph的终端用户。他们向Subgraph发起请求，并且向上述的Indexer, Curator和Delegator支付费用。数据消费者很可能是开发者，或者项目本身，他们需要支出请求费用，就像他们使用AWS或者云服务的费用一样。不过，一些应用可能会将这些费用转嫁给用户，或者打包在产品使用费用里面。数据消费者通过钱包或者“网关”来支付请求费用，这些都将构建在The Graph网络的顶层开源合约中。
 
@@ -54,6 +58,7 @@ GRT是以太坊区块链中的ERC-20通证，用来分配网络的资源。活�
 质押的GRT受制于解冻期，并且有可能被罚没，如果相应的Indexer是恶意的且提供了不正确的数据；或者建立的索引不正确。Curator和Delegator不会因为不良行为而遭罚没，但是对于Curator和Delegator来说存在提款费用，这是为了防止用户草率的决定伤害网络的完整性。如果Curator选择在一个低质量的Subgraph上面做策展，他们也能赚取请求费用，但奖励很少，这是因为低质量的Subgraph只有很少的请求需要处理，或者很少的Indexer会来处理这些请求。
 
 ![image](https://github.com/crackerli/theGraph_curator/blob/main/images/Tokeneconomics-Diagram@2x.png)
+
 **数据请求市场**  
 由于Indexer提供了索引服务和Subgraph请求处理服务，质押GRT的Indexer可以在数据请求市场中赚取请求费用-比如在Uniswap.info提供Uniswap交易数据。Indexer设置这些请求的价格；根据Subgraph索引费用，请求指令，被策展的次数，还有区块链请求的市场比率，请求的价格会有差异。因为数据消费者(比如某个应用)只为请求付费，这样算起来预计费用会比自己运行一个服务器或者数据库低得多。
 

@@ -10,9 +10,9 @@ The Graph是一种将区块链数据重新组织，使其变得更加易于访�
 
 这个网络允许应用运行在无服务器的环境下-这就使得他们事实上成为了不可停止的，因为它们不再依赖于一个单一的服务器或者数据库;相反，这个网络由许多节点构成，有相应的激励机制使这些服务持续运行。The Graph网络同样能使不同的活跃参与者获取报酬，他们提供数据服务，而并非加强数据的垄断。
 
-The Graph将现有的数字经济转移到了一个新环境中，在这里有更好的激励，更安全的数据源，策展过的API，还有更加浅白的访问方式。 The Graph网络将在今年年底启动。
+The Graph将现有的数字经济转移到了一个新环境中，在这里有更好的激励，更安全的数据源，策展过的API，还有更加浅白的访问方式。 The Graph网络将在今年年底启动。  
 
-![image](https://github.com/crackerli/theGraph_curator/blob/main/images/Token-Economics-Characters@2x.png)
+<table><tr><td bgcolor=black>![image](https://github.com/crackerli/theGraph_curator/blob/main/images/Token-Economics-Characters@2x.png)</td></tr></table>
 
 **The Graph网络角色**  
 
